@@ -1,0 +1,17 @@
+.blogfa-logo{
+  width: 157px;
+  height: 30px;   
+}
+
+.main-topbox{
+  background-image: url(https://www.blogfa.com/static/images/backpattern.png);
+  background-size: cover;
+  height: 18rem;
+
+}
+
+.btn{
+  width: 140px;
+  font-size: 13px;
+}
+
